@@ -1,4 +1,4 @@
-# The Resistance
+# The Affair Manager
 
 This repo contains code for a command-line application to manage events (called "affairs" in the code), created as part of an assignment for CSCI 4602 at Austin Peay State University.
 
